@@ -14,3 +14,18 @@ table td{
 table tbody tr:nth-child(even){
     background: #F1F1F1;
 }
+table .search{
+    background:yellow;
+}
+.butSearch{
+    background: none;
+    border:2px solid gray;
+}
+.lineSearch{
+    outline: none;
+}
+.paginationLink{
+    display: inline-block;
+    padding: 3px 8px;
+    border:1px solid;
+}

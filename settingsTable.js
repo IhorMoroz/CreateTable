@@ -1,0 +1,15 @@
+/*
+*
+* MAIN SETTINGS
+*
+*/
+var TABLE_SORTING = true,
+    TABLE_SEARCH = true,
+    TABLE_PAGINATION = true;
+
+/*
+*
+* OTHER SETTINGS
+*
+*/
+var TABLE_PAGINATION_SHOW_ROWS = 5;
